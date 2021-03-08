@@ -2,9 +2,9 @@
 
 #### Eduction
 
-👷 BE Mechatronics Engineer
-💻🌐AI for Everyone
-✔️ Full Stack Serverless Multi-Tenant SaaS Apps and APIs developer | React + Firebase Developer
+- 👷 BE Mechatronics Engineer
+- 💻🌐AI for Everyone
+- ✔️ Full Stack Serverless Multi-Tenant SaaS Apps and APIs developer | React + Firebase Developer
 
 @website: https://hassanraza-portfolio.surge.sh/
 
