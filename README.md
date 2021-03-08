@@ -1,6 +1,6 @@
-My name is Erik Hanchett and I'm a Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs developer! 👋
+ My name is Hassan Raza and I'm a Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs developer! 👋
 
-### Eduction
+#### Eduction
 
 👷 BE Mechatronics Engineer
 💻🌐AI for Everyone
@@ -10,15 +10,15 @@ My name is Erik Hanchett and I'm a Modern Full Stack Serverless Multi-Tenant Saa
 
 ### Working Area
 
-🔭 I’m currently working on ... YouTube
-🌱 I’m currently learning ... React.js,TypeScript,PWA,GraphSql,FunaDB,MangoDB
-👯 I’m looking to collaborate on ... React.js
-🤔 I’m looking for help with ... AWS
-💬 Ask me about ... Anything
-📫 How to reach me: ... YouTube Channel
-😄 Pronouns: ... He/Him
-⚡ Fun fact: ... I am half Finnish
+- 🔭 I’m currently working on ... YouTube
+- 🌱 I’m currently learning ... React.js,TypeScript,PWA,GraphSql,FunaDB,MangoDB
+- 👯 I’m looking to collaborate on ... React.js
+- 🤔 I’m looking for help with ... AWS
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... YouTube Channel
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I am half Finnish
 
-### How to reach me
+#### How to reach me
 
-Github =>  https://github.com/hr280
+ -Github =>  https://github.com/hr280
